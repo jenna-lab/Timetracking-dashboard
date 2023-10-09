@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://jenna-lab.github.io/Timetracking-dashboard/)
+- Live Site URL: https://jenna-lab.github.io/Timetracking-dashboard/
 
 ### Built with
 
